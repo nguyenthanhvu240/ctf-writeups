@@ -636,7 +636,7 @@ RID: 502
 NT Hash: b5509cbfe52e94940c0ec99b21e0****
 ```
 
-The final four characters of the NT hash have been masked.
+![alt text](image.png)
 
 ## Conclusion
 
