@@ -1,7 +1,7 @@
-# Security Lab Write-ups
+# Offensive Security Writeups
 
-A collection of write-ups, notes, and scripts from security labs and hands-on challenges across various cybersecurity domains, including web application security, mobile security, cloud security, and more.
+This repository provides step-by-step writeups and instructions for solving cybersecurity challenges from various security labs and CTF platforms.
 
-This repository serves as a personal knowledge base for documenting solutions, sharing learnings, and tracking my cybersecurity journey.
+Each writeup includes the tools, commands, exploitation techniques, and troubleshooting steps used to complete the challenge.
 
-For educational purposes and authorized security testing only.
+**Disclaimer:** All content is intended for educational purposes and authorized security testing only.
